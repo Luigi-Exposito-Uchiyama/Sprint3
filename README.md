@@ -8,24 +8,24 @@ Luigi Exposito Uchiyama - 99520
 
 # Diagrama de Arquitetura
 
-/App
+/App</br> 
 ├── /assets</br> 
-│   ├── /images
-│   │   ├── logo.png
-│   │   └── background.jpg
-│   └── muitasImgs.jpg
-├── /src
-│   ├── /components
-│   │   ├── LojaScreen.tsx
-│   │   └── LocalizacaoScreen.tsx
-│   ├── /screens
-│   │   ├── LoginScreen.tsx
-│   │   ├── HomeScreen.tsx
-│   │   └── RegisterScreen.tsx
-│   └── /hooks
-│       └── EstadoGlobal.tsx
-├── App.tsx
-├── package.json
-└── README.md
+│   ├── /images</br> 
+│   │   ├── logo.png</br> 
+│   │   └── background.jpg</br> 
+│   └── muitasImgs.jpg</br> 
+├── /src</br> 
+│   ├── /components</br> 
+│   │   ├── LojaScreen.tsx</br> 
+│   │   └── LocalizacaoScreen.tsx</br> 
+│   ├── /screens</br> 
+│   │   ├── LoginScreen.tsx</br> 
+│   │   ├── HomeScreen.tsx</br> 
+│   │   └── RegisterScreen.tsx</br> 
+│   └── /hooks</br> 
+│       └── EstadoGlobal.tsx</br> 
+├── App.tsx</br> 
+├── package.json</br> 
+└── README.md</br> 
 
 <h1>Projeto</h1>
