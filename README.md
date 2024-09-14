@@ -9,7 +9,7 @@ Luigi Exposito Uchiyama - 99520
 # Diagrama de Arquitetura
 
 /App
-├── /assets
+├── /assets</br> 
 │   ├── /images
 │   │   ├── logo.png
 │   │   └── background.jpg
