@@ -1,10 +1,10 @@
 # Integrantes
 
-Pedro Antunes Ferreira - 551409
-Luis Augusto de Petta Didonato - 99433
-Gabriell Hernandes Dassi - 98361
-Pedro Henrique Nobrega de Castro Paterno - 99726
-Luigi Exposito Uchiyama - 99520
+Pedro Antunes Ferreira - 551409</br> 
+Luis Augusto de Petta Didonato - 99433</br> 
+Gabriell Hernandes Dassi - 98361</br> 
+Pedro Henrique Nobrega de Castro Paterno - 99726</br> 
+Luigi Exposito Uchiyama - 99520</br> 
 
 # Diagrama de Arquitetura
 
